@@ -1,6 +1,6 @@
 python-dotenv==1.0.1
-streamlit
-requests
+streamlit==1.41.1
+requests==2.32.3
 dotenv
 plotly
 datetime
