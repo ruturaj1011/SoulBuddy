@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+requests
+dotenv
+plotly
+datetime
